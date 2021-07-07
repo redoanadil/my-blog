@@ -1,0 +1,75 @@
+#kaizen{
+
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 40px;
+    font-weight:100;
+
+}
+
+.author{
+
+    font-family: sans-serif;
+    font-size: 17px;
+    color: #18A558;
+
+}
+
+.body{
+
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 18px;
+    background-color: blanchedalmond;
+    border: 2px dashed black;
+    border-radius: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    padding: 50px;
+    text-align: justify;
+
+}
+
+button{
+
+    background-color: green;
+    color: white;
+    height: 58px;
+    width: 478px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 20px;
+}
+
+.footer{
+
+    background-color: black;
+    width: 1887px;
+    height: 384px;   
+}
+
+.input{
+
+    width: 936px;
+    height: 53px;
+}
+
+ a { text-decoration: none; }
+
+ .author-name{
+
+     color: green;
+     font-family: sans-serif;
+ }
+
+ .author-info{
+
+     color: black;
+     font-family:Verdana;
+ }
+
+ .centre {
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  }
